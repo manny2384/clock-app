@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/manny2384/clock-app/static/css/main.4d4a6590.chunk.css",
-    "main.js": "/manny2384/clock-app/static/js/main.67bb40ca.chunk.js",
-    "main.js.map": "/manny2384/clock-app/static/js/main.67bb40ca.chunk.js.map",
-    "runtime-main.js": "/manny2384/clock-app/static/js/runtime-main.370b66b6.js",
-    "runtime-main.js.map": "/manny2384/clock-app/static/js/runtime-main.370b66b6.js.map",
-    "static/js/2.c0afd973.chunk.js": "/manny2384/clock-app/static/js/2.c0afd973.chunk.js",
-    "static/js/2.c0afd973.chunk.js.map": "/manny2384/clock-app/static/js/2.c0afd973.chunk.js.map",
-    "static/js/3.447bd91c.chunk.js": "/manny2384/clock-app/static/js/3.447bd91c.chunk.js",
-    "static/js/3.447bd91c.chunk.js.map": "/manny2384/clock-app/static/js/3.447bd91c.chunk.js.map",
-    "index.html": "/manny2384/clock-app/index.html",
-    "static/css/main.4d4a6590.chunk.css.map": "/manny2384/clock-app/static/css/main.4d4a6590.chunk.css.map",
-    "static/js/2.c0afd973.chunk.js.LICENSE.txt": "/manny2384/clock-app/static/js/2.c0afd973.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/manny2384/clock-app/static/media/bg-image-daytime.bf5e0ad4.jpg"
+    "main.css": "/clock-app/static/css/main.868d5a06.chunk.css",
+    "main.js": "/clock-app/static/js/main.c59d9015.chunk.js",
+    "main.js.map": "/clock-app/static/js/main.c59d9015.chunk.js.map",
+    "runtime-main.js": "/clock-app/static/js/runtime-main.ab57e593.js",
+    "runtime-main.js.map": "/clock-app/static/js/runtime-main.ab57e593.js.map",
+    "static/js/2.fc3f4dac.chunk.js": "/clock-app/static/js/2.fc3f4dac.chunk.js",
+    "static/js/2.fc3f4dac.chunk.js.map": "/clock-app/static/js/2.fc3f4dac.chunk.js.map",
+    "static/js/3.996cdc38.chunk.js": "/clock-app/static/js/3.996cdc38.chunk.js",
+    "static/js/3.996cdc38.chunk.js.map": "/clock-app/static/js/3.996cdc38.chunk.js.map",
+    "index.html": "/clock-app/index.html",
+    "static/css/main.868d5a06.chunk.css.map": "/clock-app/static/css/main.868d5a06.chunk.css.map",
+    "static/js/2.fc3f4dac.chunk.js.LICENSE.txt": "/clock-app/static/js/2.fc3f4dac.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/clock-app/static/media/bg-image-daytime.bf5e0ad4.jpg"
   },
   "entrypoints": [
-    "static/js/runtime-main.370b66b6.js",
-    "static/js/2.c0afd973.chunk.js",
-    "static/css/main.4d4a6590.chunk.css",
-    "static/js/main.67bb40ca.chunk.js"
+    "static/js/runtime-main.ab57e593.js",
+    "static/js/2.fc3f4dac.chunk.js",
+    "static/css/main.868d5a06.chunk.css",
+    "static/js/main.c59d9015.chunk.js"
   ]
 }
