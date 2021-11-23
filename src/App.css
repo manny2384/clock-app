@@ -1,13 +1,12 @@
 *{
   margin: 0;
   padding: 0;
-  overflow: scroll;
-  font-size: 3vw;
 }
 
-.App {
-  text-align: center;
+html, body, #root{
+  height: 100%;
 }
+
 
 .App-logo {
   height: 40vmin;
@@ -22,11 +21,11 @@
 
 .App {
   position: relative;
-  height: 100vh;
   background-image: url("./assets/mobile/bg-image-daytime.jpg");
   background-repeat: no-repeat;
   background-size: cover;
   color: white;
+  height: 100%;
 }
 
 
@@ -163,7 +162,6 @@
 
 .Stat_name{
   text-align: left;
-  font-size: 0.6em;
 }
 .Stat_value{
   text-align: right;
@@ -173,6 +171,10 @@
 /**********     TABLET STYLING            */
 
 @media screen and (min-width: 600px) and (min-height: 800px) and (max-width: 1000px) and (max-height: 1200px){
+  *{
+    font-size: 3vw;
+  }
+
   .App{
     background-image: url("./assets/tablet/bg-image-daytime.jpg");
   }
@@ -228,5 +230,9 @@
     height: fit-content;
     height: -moz-fit-content;
     margin-top: 15vw;
+  }
+
+  .Expand{
+    height: 40%;
   }
 }
